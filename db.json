@@ -3,6 +3,7 @@
     {
       "id": "1a2b3c4d5e",
       "recipe_title": "Mojito",
+      "image_url": "https://recipetineats.com/wp-content/uploads/2019/10/Mojito-3.jpg",
       "ingredients": [
         "White rum",
         "Fresh lime juice",
@@ -10,10 +11,7 @@
         "Fresh mint leaves",
         "Club soda"
       ],
-      "garnish": [
-        "Lime wedge",
-        "Mint sprig"
-      ],
+      "garnish": ["Lime wedge", "Mint sprig"],
       "instructions": [
         "1. Muddle 8-10 fresh mint leaves and 1/2 oz simple syrup in a glass.",
         "2. Add 2 oz of white rum.",
@@ -38,15 +36,9 @@
     {
       "id": "2f3g4h5i6j",
       "recipe_title": "Piña Colada",
-      "ingredients": [
-        "White rum",
-        "Coconut cream",
-        "Pineapple juice"
-      ],
-      "garnish": [
-        "Pineapple slice",
-        "Maraschino cherry"
-      ],
+      "image_url": "https://assets.epicurious.com/photos/623e1de1b623bb3c6f80a625/4:3/w_4960,h_3720,c_limit/Not-a-Colada_HERO_RECIPE_032422_30290.jpg",
+      "ingredients": ["White rum", "Coconut cream", "Pineapple juice"],
+      "garnish": ["Pineapple slice", "Maraschino cherry"],
       "instructions": [
         "1. In a blender, combine 2 oz white rum, 3 oz coconut cream, and 4 oz pineapple juice with ice.",
         "2. Blend until smooth.",
@@ -69,15 +61,9 @@
     {
       "id": "3k4l5m6n7o",
       "recipe_title": "Margarita",
-      "ingredients": [
-        "Tequila",
-        "Triple sec",
-        "Fresh lime juice"
-      ],
-      "garnish": [
-        "Salt",
-        "Lime wheel"
-      ],
+      "image_url": "https://www.allrecipes.com/thmb/7MYL4WEKP4p1_ouu3wVVstv5aj4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222416-maragrita-cocktail-ddmfs-3X4-0319-1-35ebaafc51d7410eae4a7991b578dd4c.jpg",
+      "ingredients": ["Tequila", "Triple sec", "Fresh lime juice"],
+      "garnish": ["Salt", "Lime wheel"],
       "instructions": [
         "1. Rim the glass with salt.",
         "2. In a shaker, combine 2 oz tequila, 1 oz triple sec, and 1 oz fresh lime juice with ice.",
