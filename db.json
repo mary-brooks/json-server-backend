@@ -327,12 +327,12 @@
     {
       "id": "83e84f85g86h",
       "recipe_title": "Aperol Spritz",
-      "ingredients": ["Aperol", "Prosecco", "Soda water"],
+      "ingredients": ["Aperol", "Sparkling Wine", "Soda water"],
       "garnish": ["Orange wheel"],
       "instructions": [
         "1. Fill a wine glass with ice.",
         "2. Add 2 oz of Aperol to the glass.",
-        "3. Top it off with 3 oz of Prosecco and a splash of soda water.",
+        "3. Top it off with 3 oz of sparkling wine and a splash of soda water.",
         "4. Stir gently and garnish with an orange wheel."
       ],
       "alcohol_percentage": "8%",
@@ -1128,7 +1128,7 @@
       "id": "203u204v205w206x",
       "recipe_title": "Mai Tai",
       "ingredients": [
-        "Light rum",
+        "White rum",
         "Dark rum",
         "Orange liqueur",
         "Orgeat syrup",
@@ -1136,7 +1136,7 @@
       ],
       "garnish": ["Mint sprig", "Lime wheel"],
       "instructions": [
-        "1. In a shaker, combine 1 oz light rum, 1 oz dark rum, 1/2 oz orange liqueur, 1/2 oz orgeat syrup, and 3/4 oz lime juice with ice.",
+        "1. In a shaker, combine 1 oz white rum, 1 oz dark rum, 1/2 oz orange liqueur, 1/2 oz orgeat syrup, and 3/4 oz lime juice with ice.",
         "2. Shake well and strain into a rocks glass filled with crushed ice.",
         "3. Garnish with a mint sprig and a lime wheel."
       ],
@@ -1211,12 +1211,12 @@
     {
       "id": "215g216h217i218j",
       "recipe_title": "French 75",
-      "ingredients": ["Gin", "Champagne", "Lemon juice", "Simple syrup"],
+      "ingredients": ["Gin", "Sparkling Wine", "Lemon juice", "Simple syrup"],
       "garnish": ["Lemon twist"],
       "instructions": [
         "1. In a shaker, combine 2 oz gin, 3/4 oz lemon juice, and 1/2 oz simple syrup with ice.",
         "2. Shake well and strain into a chilled champagne flute.",
-        "3. Top it off with champagne and stir gently.",
+        "3. Top it off with sparkling wine and stir gently.",
         "4. Garnish with a lemon twist."
       ],
       "alcohol_percentage": "15%",
@@ -1287,12 +1287,12 @@
     {
       "id": "227s228t229u230v",
       "recipe_title": "Negroni Sbagliato",
-      "ingredients": ["Campari", "Sweet vermouth", "Prosecco"],
+      "ingredients": ["Campari", "Sweet vermouth", "Sparkling Wine"],
       "garnish": ["Orange slice"],
       "instructions": [
         "1. Fill a rocks glass with ice.",
         "2. Pour 1 oz Campari and 1 oz sweet vermouth over the ice.",
-        "3. Top it off with Prosecco.",
+        "3. Top it off with sparkling wine.",
         "4. Stir gently and garnish with an orange slice."
       ],
       "alcohol_percentage": "15%",
@@ -1731,12 +1731,12 @@
     {
       "id": "1i2o3u4y5t",
       "recipe_title": "Bellini",
-      "ingredients": ["Prosecco", "Peach"],
+      "ingredients": ["Sparkling Wine", "Peach"],
       "garnish": ["White peach slice"],
       "instructions": [
         "1. Blend peaches into a puree. Add some water, if needed.",
         "2. In a chilled champagne flute, add 2 oz of the peach puree.",
-        "3. Slowly pour 4 oz of Prosecco and gently stir to combine.",
+        "3. Slowly pour 4 oz of sparkling wine and gently stir to combine.",
         "4. Garnish with a white peach slice."
       ],
       "alcohol_percentage": "8%",
@@ -2155,10 +2155,10 @@
     {
       "id": "1m2i3m4o5s6a7",
       "recipe_title": "Mimosa",
-      "ingredients": ["Champagne", "Orange juice"],
+      "ingredients": ["Sparkling Wine", "Orange juice"],
       "garnish": ["Orange wedge"],
       "instructions": [
-        "1. In a champagne flute, pour 2 oz of chilled champagne.",
+        "1. In a champagne flute, pour 2 oz of chilled sparkling wine.",
         "2. Top it off with 2 oz of chilled orange juice.",
         "3. Stir gently and garnish with an orange wedge"
       ],
@@ -2289,14 +2289,14 @@
         "Passion fruit liqueur",
         "Passion fruit",
         "Simple syrup",
-        "Champagne"
+        "Sparkling Wine"
       ],
-      "garnish": ["Half a passion fruit", "Champagne shot"],
+      "garnish": ["Half a passion fruit", "sparkling wine shot"],
       "instructions": [
         "1. Scoop the flesh of the passion fruit out into a strainer and push it with a spoon to have a passion fruit puree",
         "2. In a shaker, combine 2 oz vanilla vodka, 1 oz passion fruit liqueur, 1 oz passion fruit puree, and 1/2 oz simple syrup with ice.",
         "3. Shake well and strain into a martini glass.",
-        "4. Garnish with half a passion fruit and serve a shot of Champagne on the side."
+        "4. Garnish with half a passion fruit and serve a shot of sparkling wine on the side."
       ],
       "alcohol_percentage": "18%",
       "calories": 220,
