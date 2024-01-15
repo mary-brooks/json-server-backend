@@ -1541,9 +1541,7 @@
       "id": "287a288b289c290d",
       "recipe_title": "Rob Roy",
       "ingredients": ["Scotch whisky", "Sweet Vermouth", "Angostura bitters"],
-      "garnish": [
-        "https://www.acouplecooks.com/wp-content/uploads/2020/07/Rob-Roy-Drink-013.jpg"
-      ],
+      "garnish": ["Maraschino cherry"],
       "instructions": [
         "1. In a mixing glass, combine 2 oz Scotch whisky, 1 oz sweet vermouth, and a few dashes of Angostura bitters with ice.",
         "2. Stir well and strain into a chilled martini glass.",
@@ -1552,7 +1550,7 @@
       "alcohol_percentage": "22%",
       "calories": 180,
       "rating": 4.6,
-      "image": "rob_roy_image_url.jpg",
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2020/07/Rob-Roy-Drink-013.jpg",
       "is_mocktail": false,
       "is_cocktail": true,
       "is_dairyFree": true,
@@ -1783,7 +1781,7 @@
       "ingredients": [
         "Vodka",
         "Tequila",
-        "Rum",
+        "White Rum",
         "Gin",
         "Triple sec",
         "Simple syrup",
@@ -1792,7 +1790,7 @@
       ],
       "garnish": ["Lemon wedge"],
       "instructions": [
-        "1. In a shaker, combine 1/2 oz vodka, 1/2 oz tequila, 1/2 oz rum, 1/2 oz gin, 1/2 oz triple sec, 3/4 oz simple syrup, and 1 oz lemon juice.",
+        "1. In a shaker, combine 1/2 oz vodka, 1/2 oz tequila, 1/2 oz white rum, 1/2 oz gin, 1/2 oz triple sec, 3/4 oz simple syrup, and 1 oz lemon juice.",
         "2. Shake well and strain into a highball glass filled with ice.",
         "3. Top it off with cola.",
         "4. Garnish with a lemon wedge."
