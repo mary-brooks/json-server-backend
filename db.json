@@ -723,7 +723,7 @@
         "Hot chocolate mix",
         "Tequila",
         "Cayenne pepper",
-        "Ground cinnamon"
+        "Cinnamon"
       ],
       "garnish": ["Whipped cream", "Chocolate shavings"],
       "instructions": [
@@ -751,7 +751,7 @@
         "Dark rum",
         "Butter",
         "Brown sugar",
-        "Ground cinnamon",
+        "Cinnamon",
         "Nutmeg"
       ],
       "garnish": ["Cinnamon stick"],
@@ -1287,7 +1287,7 @@
     {
       "id": "227s228t229u230v",
       "recipe_title": "Negroni Sbagliato",
-      "ingredients": ["Campari", "Sweet vermouth", "Sparkling Wine"],
+      "ingredients": ["Campari", "Sweet Vermouth", "Sparkling Wine"],
       "garnish": ["Orange slice"],
       "instructions": [
         "1. Fill a rocks glass with ice.",
@@ -1311,7 +1311,7 @@
     {
       "id": "239e240f241g242h",
       "recipe_title": "Boulevardier",
-      "ingredients": ["Bourbon", "Sweet vermouth", "Campari"],
+      "ingredients": ["Bourbon", "Sweet Vermouth", "Campari"],
       "garnish": ["Orange twist"],
       "instructions": [
         "1. In a mixing glass, combine 1 1/2 oz bourbon, 1 oz sweet vermouth, and 1 oz Campari with ice.",
@@ -1366,7 +1366,7 @@
         "Red wine",
         "Orange",
         "Cloves",
-        "Cinnamon sticks",
+        "Cinnamon stick",
         "Star anise",
         "Brown sugar"
       ],
@@ -1781,7 +1781,7 @@
       "ingredients": [
         "Vodka",
         "Tequila",
-        "White Rum",
+        "White rum",
         "Gin",
         "Triple sec",
         "Simple syrup",
@@ -2464,7 +2464,7 @@
         "Red grape juice",
         "Apple juice",
         "Orange juice",
-        "Orange slices",
+        "Orange",
         "Mixed berries",
         "Apple",
         "Soda water"
@@ -2499,7 +2499,7 @@
         "Honey",
         "Vanilla extract",
         "Whiskey",
-        "Cinnamon sticks",
+        "Cinnamon stick",
         "Star anise"
       ],
       "garnish": ["Cinnamon stick"],
@@ -2707,7 +2707,7 @@
     {
       "id": "1n2u3t4hyfm",
       "recipe_title": "Nutty Irishman",
-      "ingredients": ["Irish whiskey", "Hazelnut liqueur", "Heavy Cream"],
+      "ingredients": ["Irish whiskey", "Hazelnut liqueur", "Heavy cream"],
       "garnish": ["Crushed hazelnuts"],
       "instructions": [
         "1. In a glass, combine 1 1/2 oz Irish whiskey and 3/4 oz hazelnut liqueur.",
