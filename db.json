@@ -2858,6 +2858,102 @@
           "total_ingredients": 5
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Brenda's List",
+      "created_by": "Brenda",
+      "cocktails": [
+        {
+          "id": "1p2o3r4n5s6",
+          "recipe_title": "Pornstar Martini",
+          "ingredients": [
+            "Vanilla vodka",
+            "Passion fruit liqueur",
+            "Passion fruit",
+            "Simple syrup",
+            "Sparkling Wine"
+          ],
+          "garnish": ["Half a passion fruit", "sparkling wine shot"],
+          "instructions": [
+            "1. Scoop the flesh of the passion fruit out into a strainer and push it with a spoon to have a passion fruit puree",
+            "2. In a shaker, combine 2 oz vanilla vodka, 1 oz passion fruit liqueur, 1 oz passion fruit puree, and 1/2 oz simple syrup with ice.",
+            "3. Shake well and strain into a martini glass.",
+            "4. Garnish with half a passion fruit and serve a shot of sparkling wine on the side."
+          ],
+          "alcohol_percentage": "18%",
+          "calories": 220,
+          "rating": 4.8,
+          "image": "https://assets-prd.punchdrink.com/wp-content/uploads/2023/06/25183707/Article-Ultimate-Porn-Star-Martini-Recpie.jpg",
+          "is_mocktail": false,
+          "is_cocktail": true,
+          "is_dairyFree": true,
+          "is_eggsFree": true,
+          "is_nutsFree": true,
+          "is_hot": false,
+          "is_cold": true,
+          "total_ingredients": 5
+        },
+        {
+          "id": "15o16p17q18r",
+          "recipe_title": "Cosmopolitan",
+          "ingredients": [
+            "Vodka",
+            "Triple sec",
+            "Cranberry juice",
+            "Lime juice"
+          ],
+          "garnish": ["Lime twist"],
+          "instructions": [
+            "1. In a shaker, combine 2 oz vodka, 1 oz triple sec, 1 oz cranberry juice, and 1/2 oz Lime juice with ice.",
+            "2. Shake well and strain into a chilled martini glass.",
+            "3. Garnish with a lime twist."
+          ],
+          "alcohol_percentage": "20%",
+          "calories": 180,
+          "rating": 4.7,
+          "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/06/cosmo-1.jpg",
+          "is_mocktail": false,
+          "is_cocktail": true,
+          "is_dairyFree": true,
+          "is_eggsFree": true,
+          "is_nutsFree": true,
+          "is_hot": false,
+          "is_cold": true,
+          "total_ingredients": 4
+        },
+        {
+          "id": "275o276p277q278r",
+          "recipe_title": "Clericot",
+          "ingredients": [
+            "White wine",
+            "Soda water",
+            "Brandy",
+            "Apple",
+            "Peach",
+            "Mixed berries"
+          ],
+          "garnish": ["Mint leaves"],
+          "instructions": [
+            "1. In a large pitcher, combine a bottle of white wine, 1 cup of sparkling water, and 1/4 cup brandy.",
+            "2. Add a mix of sliced apples, peaches, and berries.",
+            "3. Stir gently and refrigerate for a few hours.",
+            "4. Serve over ice and garnish with mint leaves."
+          ],
+          "alcohol_percentage": "8%",
+          "calories": 120,
+          "rating": 4.8,
+          "image": "https://i1.wp.com/www.wine.com.br/winepedia/wp-content/uploads/2017/11/Como-fazer-Clericot.jpg",
+          "is_mocktail": false,
+          "is_cocktail": true,
+          "is_dairyFree": true,
+          "is_eggsFree": true,
+          "is_nutsFree": true,
+          "is_hot": false,
+          "is_cold": true,
+          "total_ingredients": 4
+        }
+      ]
     }
   ]
 }
