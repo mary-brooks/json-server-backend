@@ -2766,6 +2766,7 @@
   ],
   "lists": [
     {
+      "id": 1,
       "title": "Mary's List",
       "created_by": "Mary",
       "cocktails": [
