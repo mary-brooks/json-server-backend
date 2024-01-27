@@ -2764,5 +2764,99 @@
       "total_ingredients": 7
     }
   ],
-  "lists": []
+  "lists": [
+    {
+      "title": "Mary's List",
+      "created_by": "Mary",
+      "cocktails": [
+        {
+          "id": "1a2b3c4d5e",
+          "recipe_title": "Mojito",
+          "ingredients": [
+            "White rum",
+            "Lime juice",
+            "Simple syrup",
+            "Mint leaves",
+            "Soda water"
+          ],
+          "garnish": ["Lime wedge", "Mint sprig"],
+          "instructions": [
+            "1. Muddle 8-10 Mint leaves and 1/2 oz simple syrup in a glass.",
+            "2. Add 2 oz of white rum.",
+            "3. Add 1 oz of Lime juice.",
+            "4. Fill the glass with ice and top it off with club soda.",
+            "5. Stir gently and garnish with a lime wedge and a mint sprig."
+          ],
+          "alcohol_percentage": "10%",
+          "calories": 160,
+          "rating": 4.5,
+          "image": "https://images.absolutdrinks.com/drink-images/Raw/Absolut/29812a4b-492d-466d-b84c-86dbcb316e98.jpg",
+          "is_mocktail": false,
+          "is_cocktail": true,
+          "is_dairyFree": true,
+          "is_eggsFree": true,
+          "is_nutsFree": true,
+          "is_hot": false,
+          "is_cold": true,
+          "total_ingredients": 5
+        },
+        {
+          "id": "83e84f85g86h",
+          "recipe_title": "Aperol Spritz",
+          "ingredients": ["Aperol", "Sparkling Wine", "Soda water"],
+          "garnish": ["Orange wheel"],
+          "instructions": [
+            "1. Fill a wine glass with ice.",
+            "2. Add 2 oz of Aperol to the glass.",
+            "3. Top it off with 3 oz of sparkling wine and a splash of soda water.",
+            "4. Stir gently and garnish with an orange wheel."
+          ],
+          "alcohol_percentage": "8%",
+          "calories": 120,
+          "rating": 4.6,
+          "image": "https://assets.epicurious.com/photos/62755263a00ff576935dcf0f/1:1/w_4235,h_4235,c_limit/AperolSpritz_RECIPE_050522_33647.jpg",
+          "is_mocktail": false,
+          "is_cocktail": true,
+          "is_dairyFree": true,
+          "is_eggsFree": true,
+          "is_nutsFree": true,
+          "is_hot": false,
+          "is_cold": true,
+          "total_ingredients": 4
+        },
+        {
+          "id": "263c264d265e266f",
+          "recipe_title": "White Sangria",
+          "ingredients": [
+            "White wine",
+            "Peach schnapps",
+            "Triple sec",
+            "Pineapple juice",
+            "Peach",
+            "Grapes",
+            "Mixed berries"
+          ],
+          "garnish": ["Mint leaves"],
+          "instructions": [
+            "1. In a pitcher, combine a bottle of white wine, 1/4 cup peach schnapps, 1/4 cup triple sec, and 1 cup of pineapple juice.",
+            "2. Add a mix of sliced peaches, grapes, and berries.",
+            "3. Stir well and refrigerate for a few hours.",
+            "4. Serve over ice and garnish with Mint leaves."
+          ],
+          "alcohol_percentage": "8%",
+          "calories": 120,
+          "rating": 4.7,
+          "image": "https://amandascookin.com/wp-content/uploads/2019/08/white-sangria-moscato-SQ-500x500.jpg",
+          "is_mocktail": false,
+          "is_cocktail": true,
+          "is_dairyFree": true,
+          "is_eggsFree": true,
+          "is_nutsFree": true,
+          "is_hot": false,
+          "is_cold": true,
+          "total_ingredients": 5
+        }
+      ]
+    }
+  ]
 }
