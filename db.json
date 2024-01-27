@@ -898,15 +898,16 @@
       "id": "167k168l169m170n",
       "recipe_title": "White Russian",
       "ingredients": ["Vodka", "Coffee liqueur", "Heavy cream"],
-      "garnish": [],
+      "garnish": ["Whipped heavy cream", "Star anise"],
       "instructions": [
         "1. In a glass filled with ice, combine 2 oz vodka and 1 oz coffee liqueur.",
-        "2. Gently pour 1 oz of heavy cream over the back of a spoon to create a layered effect."
+        "2. Gently pour 1 oz of heavy cream over the back of a spoon to create a layered effect.",
+        "3. Garnish with a small amount of whipped heavy cream and a star anise."
       ],
       "alcohol_percentage": "15%",
       "calories": 220,
       "rating": 4.7,
-      "image": "https://cdn.diffords.com/contrib/stock-images/2023/03/64070f2d706e4.jpg",
+      "image": "https://thehealthfulideas.com/wp-content/uploads/2022/01/Chai-White-Russian-SQUARE.jpg",
       "is_mocktail": false,
       "is_cocktail": true,
       "is_dairyFree": false,
@@ -918,7 +919,7 @@
     },
     {
       "id": "171o172p173q174r",
-      "recipe_title": "Vanilla Chai White Russian",
+      "recipe_title": "Chai White Russian",
       "ingredients": [
         "Vodka",
         "Coffee liqueur",
@@ -994,7 +995,7 @@
     },
     {
       "id": "183a184b185c186d",
-      "recipe_title": "Smoky Maple Bacon Old Fashioned",
+      "recipe_title": "Bacon Old Fashioned",
       "ingredients": ["Bourbon", "Maple syrup", "Bacon-infused bitters"],
       "garnish": ["Crispy bacon strip", "Orange peel"],
       "instructions": [
@@ -1982,17 +1983,18 @@
       "id": "1g2o3d4m5o",
       "recipe_title": "Godmother",
       "ingredients": ["Vodka", "Amaretto"],
-      "garnish": [],
+      "garnish": ["Orange peel"],
       "instructions": [
         "1. Fill a rocks glass with ice.",
         "2. Pour 2 oz vodka over the ice.",
         "3. Add 1/2 oz Amaretto.",
-        "4. Stir gently."
+        "4. Stir gently.",
+        "5. Garnish with a strip of orange peel."
       ],
       "alcohol_percentage": "20%",
       "calories": 180,
       "rating": 4.7,
-      "image": "https://www.thespruceeats.com/thmb/OHM9pT5CQ9cWy6eR9BLNz_NAZCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/godmother-cocktail-recipe-761065-hero-01-f2f059428fb74a8e866b655976626d9f.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/11/Godfather-2370b01.jpg?quality=90&resize=556,505",
       "is_mocktail": false,
       "is_cocktail": true,
       "is_dairyFree": true,
@@ -2130,17 +2132,18 @@
       "id": "1b2l3a4c5k6r",
       "recipe_title": "Black Russian",
       "ingredients": ["Vodka", "Coffee liqueur"],
-      "garnish": [],
+      "garnish": ["Maraschino cherry"],
       "instructions": [
         "1. Fill a rocks glass with ice.",
         "2. Pour 2 oz vodka over the ice.",
         "3. Add 1 oz coffee liqueur.",
-        "4. Stir gently."
+        "4. Stir gently.",
+        "5. Garnish with a single maraschino cherry."
       ],
       "alcohol_percentage": "26%",
       "calories": 180,
       "rating": 4.7,
-      "image": "https://www.liquor.com/thmb/bON2dAkE1B5NMtXT-opx3M4XLxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/black-russian-4000x4000-primary-ig-267ec4b1cb664b0680c6a641dc68d77b.jpg",
+      "image": "https://images.food52.com/_LqUPLIcyazVW42DNckxirFPdh0=/1200x1200/eb515d14-12cd-4ab6-9922-bdb207ed2997--2021-0810_black-russian_3x2_julia-gartland_023.jpg",
       "is_mocktail": false,
       "is_cocktail": true,
       "is_dairyFree": true,
@@ -2469,18 +2472,19 @@
         "Apple",
         "Soda water"
       ],
-      "garnish": [],
+      "garnish": ["Mint sprig", "Orange slice", "Strawberry"],
       "instructions": [
         "1. In a large pitcher, combine equal parts (1 cup each) red grape juice, apple juice, and orange juice.",
         "2. Add sliced oranges, berries, and apple slices.",
         "3. Top it off with sparkling water.",
         "4. Stir gently and refrigerate for a few hours.",
-        "5. Serve over ice."
+        "5. Serve over ice.",
+        "6. Garnish with an orange slice, a strawberry, and a mint sprig."
       ],
       "alcohol_percentage": "0%",
       "calories": 80,
       "rating": 4.7,
-      "image": "https://www.thespruceeats.com/thmb/9nn9zbx6aQ6UnJ2bjZb8rBuZ1fA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/virgin-sangria-mocktail-recipe-4064334-hero-01-ef6a1f2e1b6f413585aee53b6ccb1a9e.jpg",
+      "image": "https://sprinkledwithbalance.com/wp-content/uploads/2022/08/Non-alcoholic-sangria-2-1.jpg",
       "is_mocktail": true,
       "is_cocktail": false,
       "is_dairyFree": true,
